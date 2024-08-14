@@ -1,7 +1,7 @@
 {
   "name": "umi-demo",
   "private": true,
-  "author": "chenchuan <chenchuan@shouqianba.com>",
+  "author": "chenchuan",
   "scripts": {
     "build": "max build",
     "dev": "max dev",
